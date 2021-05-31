@@ -1,0 +1,17 @@
+.cover-container {
+  max-width: 42em;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
+}
+#text{
+  color: lightgray;
+}
+#body{
+  background-color: black;
+}
